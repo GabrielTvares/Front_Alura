@@ -40,7 +40,7 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
-    text-decoration: none;
+    text-decoration: none; /*remove sublinhado padrao*/
 }
 .titulo-Destaque {
     color: var(--cor-terciaria);
