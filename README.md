@@ -1,1 +1,2 @@
 # Front_Alura
+# Link Figma do Projeto: https://www.figma.com/design/MfKaujoRIMh7QzkiOCqa17/Curso-4---HTML-e-CSS%3A-trabalhando-com-responsividade-e-publicação-de-projetos-%5BPortfólio%5D-(Community)?node-id=101-8&t=VXi86OxiDq4VYLDT-0
